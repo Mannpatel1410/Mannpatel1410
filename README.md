@@ -14,8 +14,6 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannpatel1410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="340" />
-
 ### 👨‍💻 &nbsp;About Me
 
 - 🧠 &nbsp;Software Engineer building **AI-powered backend systems**
